@@ -1,0 +1,26 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1384902107000 548 821614cbe88a5d01da8072c0ea8b78f568076311 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/R$style.class
+1384902107000 512 f760811000929cc902428293554acc8709ae5f30 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/BuildConfig.class
+1384902107000 1846 f83005b570288ad58c78f6abb83415a61ae52d13 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/CountDownView$1.class
+1384902107000 461 de4e87ffa443846f54585478f132c5ec928fdac5 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/R$color.class
+1384902107000 462 34dd529d2f6819dee15bc70bde8ee4b9234d5258 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/R$menu.class
+1384902107000 583 111bd353576e10d63390f37909b5def6ef4f4f1c /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/R$id.class
+1384902107000 513 0afb95f71ab7a179228fbee080bc5ace83f4ee84 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/R$layout.class
+1384902107000 534 d89335a96ad1a56e48adf6bd0b5ec75721acd83f /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/R$string.class
+1384902107000 570 cbd7dab00e521b2488128c7d06b18f74e936a4be /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/R$drawable.class
+1384902107000 2944 4828bf5027ea0f780803b4eeb7c4d4b8a6ad8062 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/StopwatchService.class
+1384902107000 4477 2f5b4f16e8bc07945d28b7e726294fe1dac8c9aa /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/CountDownView.class
+1384902107000 1041 d89fc8a162ce58a10bbbd83f24aa24a68284a047 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/R.class
+1384902107000 409 36c10b8000fac1fb26228debdadacaaf56a6fc77 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/R$attr.class
+1384902107000 4764 f6c900bca80d32e6cee95d94b79834f593da5bee /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/ChronometerView.class
+1384902107000 6178 559d596bd2398b1276c11027f237501715c41ce8 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/ChronometerDrawer.class
+1384902107000 304 930a218db7ae99200625c5d90934f2d5e5178cd1 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/ChronometerView$ChangeListener.class
+1384902107000 469 4d9aab2158acbfc3e8d6287d2cc7261ebef7b81b /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/R$xml.class
+1384902107000 2880 741605b733b1a6c5a7b7cd3f694cbafe61da76fe /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/ChronometerDrawer$1.class
+1384902107000 1215 9d2914b8e0e0e52a946bb0404745d27df2c8fab5 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/ChronometerView$1.class
+1384902107000 1201 2e1bbe656f45a3ee42ac20af1db8d9262a1c6a79 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/ChronometerDrawer$2.class
+1384902107000 328 fb270595ecf0f8862bb7567c45468a72f639e869 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/CountDownView$CountDownListener.class
+1384902107000 1641 4742b3bcb0969b474a21d285e2c1221e7b5cc9b5 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/MenuActivity.class
+1384902107000 492 14da4f8913465de0220bf50031684feb334634b5 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/classes/debug/com/google/android/glass/sample/stopwatch/R$raw.class

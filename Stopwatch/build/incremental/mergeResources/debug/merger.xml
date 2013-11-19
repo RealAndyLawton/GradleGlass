@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/res" >
+            <file
+                name="ic_colon"
+                path="/Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/res/drawable/ic_colon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_interpunc"
+                path="/Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/res/drawable/ic_interpunc.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_lap"
+                path="/Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/res/drawable/ic_lap.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_stop"
+                path="/Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/res/drawable/ic_stop.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="card_chronometer"
+                path="/Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/res/layout/card_chronometer.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="card_countdown"
+                path="/Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/res/layout/card_countdown.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="stopwatch"
+                path="/Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/res/menu/stopwatch.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="countdown_bip"
+                path="/Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/res/raw/countdown_bip.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="start"
+                path="/Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/res/raw/start.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                path="/Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/res/values/colors.xml"
+                qualifiers="" >
+                <color name="black" >#ff000000
+                </color>
+            </file>
+            <file
+                path="/Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >StopWatch
+                </string>
+                <string name="stop" >Stop
+                </string>
+                <string name="start_stopwatch" >start a stopwatch
+                </string>
+            </file>
+            <file
+                path="/Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/res/values/styles.xml"
+                qualifiers="" >
+
+                <style name="ChronometerComponent" >
+                    <item name="android:layout_width">
+150px
+                    </item>
+                    <item name="android:layout_height">
+150px
+                    </item>
+                    <item name="android:layout_gravity">
+center
+                    </item>
+                    <item name="android:layout_marginTop">
+-17px
+                    </item>
+                    <item name="android:gravity">
+center
+                    </item>
+                    <item name="android:textSize">
+130px
+                    </item>
+                </style>
+
+                <style name="ChronometerIcon" >
+                    <item name="android:layout_width">
+55px
+                    </item>
+                    <item name="android:layout_height">
+55px
+                    </item>
+                    <item name="android:layout_gravity">
+center
+                    </item>
+                </style>
+
+                <style
+                    name="MenuTheme"
+                    parent="@android:style/Theme.DeviceDefault" >
+                    <item name="android:windowBackground">
+@android:color/transparent
+                    </item>
+                    <item name="android:colorBackgroundCacheHint">
+@null
+                    </item>
+                    <item name="android:windowIsTranslucent">
+true
+                    </item>
+                    <item name="android:windowAnimationStyle">
+@null
+                    </item>
+                </style>
+            </file>
+            <file
+                name="voice_trigger_start"
+                path="/Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/res/xml/voice_trigger_start.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="/Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/build-types/debug/res" />
+    </dataSet>
+
+</merger>

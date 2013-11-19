@@ -1,0 +1,8 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1384893579000 1870 a0c56d6885496d75eba882383e1b476da7160d05 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/src/com/google/android/glass/sample/stopwatch/MenuActivity.java
+1384893579000 5229 24dac2214a48a5c02a48b122222964a051fbd208 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/src/com/google/android/glass/sample/stopwatch/CountDownView.java
+1384893579000 5184 346360db2f5f5b6c357d72dbf9639d0e8e0b010b /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/src/com/google/android/glass/sample/stopwatch/ChronometerView.java
+1384893579000 2759 1777b1501dee0e5e3d8bd902e0712b300c37ba90 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/src/com/google/android/glass/sample/stopwatch/StopwatchService.java
+1384893579000 5760 f1acc704f1051c802b5249f01e17fef2d958d076 /Users/realandylawton/Dev/Glass/GradleGlass/Stopwatch/src/com/google/android/glass/sample/stopwatch/ChronometerDrawer.java
